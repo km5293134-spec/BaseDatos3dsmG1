@@ -1,11 +1,11 @@
-/*------------------------------------------------------------------------
-    DQL (Data Query Languaje) en SQLSERVER 
+/* =======================================================================
+    DQL (Data Query Lenguage) en SQLServer
 
-Archivo: 03-seed-data-ventas.sql
+    Archivo: 03-create-databse-sql
 
-Descripcion:carga los datos para todas las tablas de la base de datos comercial_db  
-----------------------------------------------------------------------------*/
-
+    Descripción: Carga los datos para todas las tablas de la base de datos
+   =======================================================================
+*/ 
 
 USE comercial_db;
 GO

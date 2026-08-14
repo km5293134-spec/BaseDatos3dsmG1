@@ -1,5 +1,5 @@
 # Base de Datos Company
-- Maria Fernanda Hernandez Santillan
+ - Kevin Matinez Gonzaga
 
 ## Diagrama Entidad-Relación
 ![ejer5.1](image-22.png)

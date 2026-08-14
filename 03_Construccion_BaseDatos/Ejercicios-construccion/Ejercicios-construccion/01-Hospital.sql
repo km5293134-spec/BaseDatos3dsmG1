@@ -39,7 +39,7 @@ GO
 =========================================*/
 INSERT INTO Paciente (Nombre, Apellido1, Apellido2, FechaNaci)
 VALUES
-('Juan','Perez','Lopez','2000-05-10'),
+('Kevin','Perez','Lopez','2007-05-10'),
 ('Maria','Garcia','Hernandez','1998-11-25'),
 ('Luis','Martinez','Sanchez','2003-08-15'),
 ('Ana','Ramirez','Torres','2001-12-02');

@@ -1,16 +1,11 @@
-/* ============================================================
+/* =======================================================================
+    DQL (Data Query Lenguage) en SQLServer
 
-DQL (Data Query Languaje) en SQLSERVER 
+    Archivo: 02-create-schema-sql
 
-Archivo: 02-Create-Schema.sql
-
-Descripcion:Crea todo el sistema relacional de la base de datos comercial_db
-
-==============================================================*/
-
-
-
-
+    Descripción: Crea todo el esquema relacional de la base de los datos comercial_db
+   =======================================================================
+*/ 
 
 USE comercial_db;
 GO

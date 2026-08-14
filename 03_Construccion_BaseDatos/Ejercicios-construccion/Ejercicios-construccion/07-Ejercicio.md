@@ -1,5 +1,5 @@
 # Base de Datos Empresa
- - Maria Fernanda Hernandez Santillan 
+ - Kevin Martinez Gonzaga 
 
 ## Diagrama Entidad-Relación
 
